@@ -1,0 +1,34 @@
+body {
+    background-color: #4da16a;
+    font-family: 'Roboto', sans-serif;
+}
+
+#tableAlta {
+    background-color: #4d97a1;
+}
+
+#tableAlta, td {
+    border: 1px solid black;
+    width: 50%;
+    align-self: center;
+}
+
+#formBusqueda {
+    
+}
+
+#tablaBD {
+    background-color: #4d97a1;
+}
+
+#tablaBD th {
+    height: 40px;
+}
+
+#tablaBD, th, td{
+    border: 1px solid black;
+}
+
+h1, h2 {
+    text-align: center;
+}
